@@ -1,29 +1,14 @@
-# UConn Bootcamp Module 2
+# Run Buddy
 
-CONTENTS OF THIS FILE
-------------------------------
+## Purpose
+A website that offers fitness training services.
 
-*Introduction <br />
-*Description <br />
-*Acknowledgement <br />
+## Built With
+* HTML
+* CSS
 
+## Website
+https://lernantino.github.io/run-buddy/
 
-INTRODUCTION
-------------------------------
-
-Module 2: Advanced CSS
-
-
-DESCRIPTION
-------------------------------
-
-Learn about: <br/>
-Git Workflow <br/>
-Flexbox <br/>
-Mobile <br/>
-Visual Enhancements <br/>
-
-
-ACKNOWLEDGEMENT
-------------------------------
-UConn Bootcamp
+## Contribution
+Made with ❤️ by paperpatch
