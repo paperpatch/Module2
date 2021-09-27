@@ -300,6 +300,8 @@ section {
   align-items: center;
   justify-content: space-between;
 }
+/* WHAT YOU DO STYLES END */
+
 
 .step:last-child {
   border-bottom: none;
