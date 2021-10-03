@@ -12,7 +12,7 @@
 ## INTRODUCTION
 
 UConn Bootcamp Module 2: Advanced CSS <br />
-Following UConn Bootcamp's tutorial guide to learn about advanced CSS - including media queries and flexbox to make Run Buddy site more engaging and mobile-reponsive. <br />
+Following UConn Bootcamp's tutorial guide to learn about advanced CSS - including media queries and flexbox to make Run Buddy site more engaging and mobile-responsive. <br />
 <br/>
 Built With:
 - HTML
