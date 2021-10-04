@@ -44,7 +44,7 @@ Tutorial Lessons:
     - Select elements on the webpage programmatically using CSS.
     - Deploy the latest changes to the public-facing website.
 
-Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/Module1
+Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/Module2
 
 
 ## ACCESS
