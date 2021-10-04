@@ -56,6 +56,6 @@ https://paperpatch.github.io/module-2/
 Made with ❤️ by paperpatch
 
 ## ACKNOWLEDGEMENT
-Thank you UConn Bootcamp
+UConn Bootcamp
 
 ### ©️2019 Run Buddy, Inc 
