@@ -44,11 +44,11 @@ Tutorial Lessons:
     - Select elements on the webpage programmatically using CSS.
     - Deploy the latest changes to the public-facing website.
 
-Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/Module2
+Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/module-2
 
 
 ## ACCESS
-https://paperpatch.github.io/Module2/
+https://paperpatch.github.io/module-2/
 
 ![Alt text](./assets/images/run-buddy-advanced-css.png "run buddy website") 
 
