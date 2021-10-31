@@ -48,7 +48,7 @@ Version edits and changes can be found in Github commit changes at https://githu
 
 
 ## ACCESS
-https://paperpatch.github.io/module-2/
+https://paperpatch.github.io/module_2/
 
 ![Alt text](./assets/images/run-buddy-advanced-css.png "run buddy website") 
 
